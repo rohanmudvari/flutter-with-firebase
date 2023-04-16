@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575752866259",
+    "project_id": "dummy-d48a2",
+    "storage_bucket": "dummy-d48a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575752866259:android:ed10676f7a87ea14978726",
+        "android_client_info": {
+          "package_name": "com.bajra.dummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575752866259-8bb554bnb93i01nlt28j69velcvlrgt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM3TAyuiGk91HmWPU6ej7tA6QNhql4gHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575752866259-8bb554bnb93i01nlt28j69velcvlrgt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
